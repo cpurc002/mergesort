@@ -1,0 +1,51 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "/home/cpurc002/Assignment1/build/CMakeFiles/googletest"
+		},
+		
+		{
+			"file" : "/home/cpurc002/Assignment1/build/CMakeFiles/googletest.rule"
+		},
+		
+		{
+			"file" : "/home/cpurc002/Assignment1/build/CMakeFiles/googletest-complete.rule"
+		},
+		
+		{
+			"file" : "/home/cpurc002/Assignment1/build/gtest/src/googletest-stamp/googletest-install.rule"
+		},
+		
+		{
+			"file" : "/home/cpurc002/Assignment1/build/gtest/src/googletest-stamp/googletest-mkdir.rule"
+		},
+		
+		{
+			"file" : "/home/cpurc002/Assignment1/build/gtest/src/googletest-stamp/googletest-download.rule"
+		},
+		
+		{
+			"file" : "/home/cpurc002/Assignment1/build/gtest/src/googletest-stamp/googletest-update.rule"
+		},
+		
+		{
+			"file" : "/home/cpurc002/Assignment1/build/gtest/src/googletest-stamp/googletest-patch.rule"
+		},
+		
+		{
+			"file" : "/home/cpurc002/Assignment1/build/gtest/src/googletest-stamp/googletest-configure.rule"
+		},
+		
+		{
+			"file" : "/home/cpurc002/Assignment1/build/gtest/src/googletest-stamp/googletest-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "googletest" ],
+		"name" : "googletest"
+	}
+}

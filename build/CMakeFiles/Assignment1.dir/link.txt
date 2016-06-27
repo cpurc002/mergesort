@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,libAssignment1.so -o libAssignment1.so CMakeFiles/Assignment1.dir/src/mergesort.cc.o 

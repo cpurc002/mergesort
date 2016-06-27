@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,libMergesort.so -o libMergesort.so CMakeFiles/Mergesort.dir/src/mergesort.cc.o 

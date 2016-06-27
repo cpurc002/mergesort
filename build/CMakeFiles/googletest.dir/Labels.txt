@@ -1,0 +1,13 @@
+# Target labels
+ googletest
+# Source files and their labels
+/home/cpurc002/Assignment1/build/CMakeFiles/googletest
+/home/cpurc002/Assignment1/build/CMakeFiles/googletest.rule
+/home/cpurc002/Assignment1/build/CMakeFiles/googletest-complete.rule
+/home/cpurc002/Assignment1/build/gtest/src/googletest-stamp/googletest-install.rule
+/home/cpurc002/Assignment1/build/gtest/src/googletest-stamp/googletest-mkdir.rule
+/home/cpurc002/Assignment1/build/gtest/src/googletest-stamp/googletest-download.rule
+/home/cpurc002/Assignment1/build/gtest/src/googletest-stamp/googletest-update.rule
+/home/cpurc002/Assignment1/build/gtest/src/googletest-stamp/googletest-patch.rule
+/home/cpurc002/Assignment1/build/gtest/src/googletest-stamp/googletest-configure.rule
+/home/cpurc002/Assignment1/build/gtest/src/googletest-stamp/googletest-build.rule

@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+..//include/mergesort.h
+cstdlib
+-
+stdio.h
+-
+stdlib.h
+-
+
+/home/cpurc002/Assignment1/src/mergesort.cc
+cstdlib
+-
+stdio.h
+-
+stdlib.h
+-
+include/mergesort.h
+/home/cpurc002/Assignment1/src/include/mergesort.h
+
